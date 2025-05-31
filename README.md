@@ -1,7 +1,3 @@
-Here's a professional and complete `README.md` file for your **Form Builder Application** project:
-
----
-
 # 🧩 Form Builder Application
 
 A modern, user-friendly **drag-and-drop form builder** that allows users to create customizable forms visually, preview them in real-time, and generate shareable links for filling and sharing. Includes support for accessibility, auto-save, multi-step forms, and export options.
